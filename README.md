@@ -189,19 +189,7 @@ Los checkpoints se guardan en `<ckpt-dir>/best.pt` (mejor mIoU de validación).
 
 ---
 
-## 9. Contributors
-
-Grup 05 — *Xarxes Neuronals i Aprenentatge Profund*, Grau d'Enginyeria de Dades, UAB, 2026.
-
-| Nom | Email UAB |
-|---|---|
-| (a completar) | |
-| (a completar) | |
-| (a completar) | |
-
----
-
-## 10. Referencias
+## 9. Referencias
 
 - Ronneberger et al., *U-Net: Convolutional Networks for Biomedical Image Segmentation*, MICCAI 2015.
 - He et al., *Deep Residual Learning for Image Recognition*, CVPR 2016.
