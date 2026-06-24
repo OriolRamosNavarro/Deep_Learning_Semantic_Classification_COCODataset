@@ -1,0 +1,16 @@
+wandb: [wandb.login()] Loaded credentials for https://api.wandb.ai from /home/edxnG05/.netrc.
+wandb: Currently logged in as: 1671799 (1671799-uab) to https://api.wandb.ai. Use `wandb login --relogin` to force relogin
+wandb: setting up run fcxeejf4
+wandb: Tracking run with wandb version 0.26.1
+wandb: Run data is saved locally in /home/edxnG05/pol/projecte-deep-learning-05/wandb/run-20260511_193818-fcxeejf4
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run coco-resnet152-adamw-freeze(L0_L1_L2)
+wandb: ⭐️ View project at https://wandb.ai/1671799-uab/finetuning
+wandb: 🚀 View run at https://wandb.ai/1671799-uab/finetuning/runs/fcxeejf4
+[main] device = cuda  |  dataset = COCO  |  num_classes = 81
+[main] Capas congeladas: layer0, layer1, layer2
+[main] U-Net params: 75.54M total | 72.97M entrenables
+[main] channels_last activado
+[main] AMP (mixed precision fp16) activado
+[main] torch.compile activado
+train ep000:   0%|          | 0/3697 [00:00<?, ?it/s]

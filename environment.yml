@@ -1,0 +1,17 @@
+name: grupo-5
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - tqdm
+  - matplotlib
+  - pillow
+  - pip
+  - pip:
+      - torch==2.5.1 --index-url https://download.pytorch.org/whl/cu124
+      - torchvision==0.20.1 --index-url https://download.pytorch.org/whl/cu124
+      - wandb
+      - ipykernel
+      - tensorboard
+      - pycocotools
